@@ -1,0 +1,11 @@
+.card5:hover {
+  background-color: #9363ea;
+  color: white;
+  background: #9363ea;
+  border: none !important;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px 0px rgba(147, 99, 234, 0.75);
+}
+.drop:hover {
+  cursor: pointer;
+}
